@@ -1,0 +1,12 @@
+{
+  "rows": 395,
+  "columns": 36,
+  "duplicate_rows": 0,
+  "missing_cells": 0,
+  "target_min": 0,
+  "target_max": 20,
+  "target_mean": 10.415189873417722,
+  "target_median": 11.0,
+  "contains_G1": false,
+  "contains_G2": false
+}
